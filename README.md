@@ -6,7 +6,7 @@ Migracion a FastAPI del proyecto [comerciosempleados](https://github.com/alfaro2
 
 ## Instalación 🔧
 
-* Crear un entorno virtual para Python si se desaa y ejecutar archivo requirements.txt
+* Crear un entorno virtual para Python si se desea y ejecutar el archivo requirements.txt
 * La base de datos se encuentra en SQLite con el nombre [comercios_database.db]
 
 ## Ejecución del software ⚙️
